@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vikash 👋</h1>
-<h3 align="center">I Love to Code, I Love to Share.</h3>
+<h3 align="center">I Love to Code, I Love to Share it Too.</h3>
 
 <div align="center">
 
