@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vikash 👋</h1>
-<h3 align="center">Algebraic Combinatorics, Quantum Computing. Sr. AIML Engineer @ [HCL 🦢](https://HCLTech.com/)</h3>
+<h3 align="center">Data Engineering, Algebraic Combinatorics, Quantum Computing. Sr. AIML Engineer @ [HCL 🦢](https://HCLTech.com/)</h3>
 
 <div align="center">
 
