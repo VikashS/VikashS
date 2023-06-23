@@ -1,5 +1,13 @@
 <h1 align="center">Hi, I'm Vikash 👋</h1>
-<h3 align="center">Data Engineering, Algebraic Combinatorics, Quantum Computing. Sr. AIML Engineer @ [HCL 🦢](https://HCLTech.com/)</h3>
+<h3 align="center">Love exploring new trends in Data Engineering and Machine-Learning and Quantum</h3>
+
+- 🌱 I’m currently learning **DAGSTAR**
+  
+-  💬 Ask me about **Operationalizing and scaling of Machine-Learning Models**
+  
+-   ⚡ Fun fact **I don't miss any movie of Gru**
+
+- ⚡ Check out my Medium **I blog occasionally**
 
 <div align="center">
 
