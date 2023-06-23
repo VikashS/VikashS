@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vikash 👋</h1>
-<h3 align="center">Love exploring new trends in Data Engineering and Machine-Learning and Quantum</h3>
+<h3 align="center">Love exploring new trends in Data Engineering and MLOps</h3>
 
 - 🌱 I’m currently learning **DAGSTAR**
   
