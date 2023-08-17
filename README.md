@@ -1,9 +1,9 @@
 <h1 align="center">Hi, I'm Vikash 👋</h1>
-<h3 align="center">Love exploring new trends in Data Engineering and MLOps</h3>
+<h3 align="center">Love exploring new trends in Data and ML Engineering</h3>
 
-- 🌱 I’m currently learning **DAGSTAR**
+- 🌱 I’m currently learning **Podman**
   
--  💬 Ask me about **Operationalizing and scaling of Machine-Learning Models**
+-  💬 Ask me about **Operationalizing and scaling of ML Models**
   
 -   ⚡ Fun fact **I don't miss any movie of Gru**
 
