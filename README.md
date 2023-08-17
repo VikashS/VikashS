@@ -18,6 +18,6 @@
   
 [![](https://img.shields.io/static/v1?label=My&message=Twitter&color=5DA9DD&style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/imvikashsingh)
   
-   ![Vikash Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikashs&show_icons=true&theme=algolia)
+![Vikash Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vikashs&show_icons=true&theme=algolia)
 
 </div>
