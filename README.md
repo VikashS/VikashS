@@ -1,13 +1,17 @@
 <h1 align="center">Hi, I'm Vikash 👋</h1>
 <h3 align="center">Love exploring new trends in Data and ML Engineering</h3>
 
+### About Me
+
 - 🌱 I’m currently learning **Podman**
   
--  💬 Ask me about **Operationalizing and scaling of ML Models**
+- 💛 Secretly in love with software engineering. <br/>
   
 -   ⚡ Fun fact **I don't miss any movie of Gru**
 
-- ⚡ Check out my Medium **I blog occasionally**
+- ⚡ Check out my Medium **I blog occasionally** but sharing my knowledge through creating content about designing and productionizing ML systems
+  
+- 👱🏻 Because I am not 100% a robot, I am also excited about self-development, cooking, cycling, Swimming and my favorites Pani-Poori. <br/>
 
 <div align="center">
 
