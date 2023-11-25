@@ -3,11 +3,11 @@
 
 ### About Me 🤖 
 
-- 🌱 I’m currently learning **Podman**
+- 🌱 I’m currently learning **BARD**
   
 - 💛 Secretly in love with software engineering. <br/>
   
--   ⚡ Fun fact **I don't miss any movie of Gru**
+-   ⚡ Fun fact **I don't miss any movie of Gru or Vector**
 
 - ⚡ Check out my Medium **I blog occasionally** but sharing my knowledge through creating content about designing and productionizing ML systems
   
