@@ -37,7 +37,7 @@
 
 | ⚫️ My **top** technologies ⚫️ | ⚫️ My **top** interests ⚫️ |
 |---------------|--------------|
-| • Java, Python, SQL • <br/> • PySpark, Scikit-Learn <br/> • NumPy, Pandas <br/> • Azure, GCP <br/> • Docker, FastAPI, Airflow, MLFlow <br/> • Spark, Kafka <br/> • Hive, Cassandra, Redis <br/> | • MLOps <br/> • Generative AI <br/> • LLM <br/> • Distributed systems <br/> • Batch & Streaming <br/> • REST API, gRPC & Streaming design <br/> • Cloud & On-primises <br/> • Snowflake & Databricks <br/> |
+| • Java, Python, SQL • <br/> • PySpark, Scikit-Learn <br/> • NumPy, Pandas <br/> • Azure, GCP <br/> • Docker, FastAPI, Airflow, MLFlow <br/> • Spark, Kafka <br/> • Hive, Cassandra, Redis <br/> | • MLOps <br/> • Generative AI & LLM <br/> • Distributed systems <br/> • Batch & Streaming <br/> • REST API, gRPC & Streaming design <br/> • Cloud & On-primises <br/> • Snowflake & Databricks <br/> |
 
 .
 
