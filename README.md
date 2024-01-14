@@ -1,6 +1,8 @@
 <h1 align="center">Hi, I'm Vikash 👋</h1>
 <h3 align="center">Love exploring new trends in Data and ML Engineering</h3>
 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/imvikashsingh/)
+
 ### About Me 🤖 
 
 - 🌱 I’m currently learning **BARD**
