@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Vikash 👋</h1>
-<h3 align="center">Love exploring new trends in Data and ML Engineering</h3>
+<h3 align="center">Love to exploring new trends in Data and ML Engineering</h3>
 
 
 
@@ -9,11 +9,11 @@
   
 - 💛 Secretly in love with software engineering. <br/>
   
--   ⚡ Fun fact **I don't miss any movie of Gru or Vector**
+-   ⚡ Fun fact **I don't miss any movie of Gru **
 
 - ⚡ Check out my Medium **I blog occasionally** but sharing my knowledge through creating content about designing and productionizing ML systems
   
-- 👱🏻 Because I am not 100% a robot,so I am also invest some time self-development, I live to cooking, cycling, swimming on my free time. <br/>
+- 👱🏻 Because I am not 100% a robot,so I am also invest some time self-development. Cooking, gor for cycling, swimming for long hour are always my favourite. <br/>
 
 ### About my primary skills
 
