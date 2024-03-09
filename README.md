@@ -5,7 +5,7 @@
 
 ### About Me 🤖  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikashksingh/)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@imvikashsingh)
 
-- 🌱 I’m currently learning **BARD**
+- 🌱 I’m currently learning **LLama**
   
 - 💛 Secretly in love with software engineering. <br/>
   
@@ -13,7 +13,7 @@
 
 - ⚡ Check out my Medium **I blog occasionally** but sharing my knowledge through creating content about designing and productionizing ML systems
   
-- 👱🏻 Because I am not 100% a robot, I am also excited about self-development, cooking, cycling, Swimming and my favorites Pani-Poori. <br/>
+- 👱🏻 Because I am not 100% a robot,so I am also invest some time self-development, I live to cooking, cycling, swimming on my free time. <br/>
 
 ### About my primary skills
 
@@ -37,9 +37,9 @@
 <br/>
 <br/>
 
-| ⚫️ My **top** technologies ⚫️ | ⚫️ My **top** interests ⚫️ |
+| ⚫️ My **top** Technologies ⚫️ | ⚫️ My **top** interests ⚫️ |
 |---------------|--------------|
-| • Java, Python, SQL • <br/> • PySpark, Scikit-Learn <br/> • NumPy, Pandas <br/> • Azure, GCP <br/> • Docker, FastAPI, Airflow, MLFlow <br/> • Spark, Kafka <br/> • Hive, Cassandra, Redis <br/> | • MLOps <br/> • Generative AI & LLM <br/> • Distributed systems <br/> • Batch & Streaming <br/> • REST API, gRPC & Streaming design <br/> • Cloud & On-primises <br/> • Snowflake & Databricks <br/> |
+| • Java, Python, SQL • <br/> • Spark, Scikit-Learn ,TensorFlow <br/> • NumPy, Pandas <br/> • Azure, GCP <br/> • Docker, FastAPI, Airflow, MLFlow • Hive, Cassandra, Redis <br/> | • MLOps <br/> • Generative AI & LLM <br/> • Distributed systems <br/> • Batch & Streaming <br/> • REST API, gRPC & Streaming design <br/> • Cloud & On-primises <br/> • Snowflake & Databricks <br/> |
 
 .
 
