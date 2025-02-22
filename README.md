@@ -5,7 +5,7 @@
 
 ### About Me 🤖  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikashksingh/)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@imvikashsingh)
 
-- 🌱 I’m currently learning **Time Series Forcasting and LangChain with Rust**
+- 🌱 I’m currently learning **AI Agent with Rust**
   
 - 💛 Secretly in love with software engineering. <br/>
   
@@ -39,7 +39,7 @@
 
 | ⚫️ My **top** Technologies ⚫️ | ⚫️ My **top** interests ⚫️ |
 |---------------|--------------|
-| • Java, Python, SQL • <br/> • Spark, Scikit-Learn ,TensorFlow <br/> • NumPy, Pandas <br/> • Azure, GCP <br/> • Docker, FastAPI, Airflow, MLFlow • Hive, Cassandra, Redis <br/> | • MLOps <br/> • Generative AI & LLM <br/> • Distributed systems <br/> • Batch & Streaming <br/> • REST API, gRPC & Streaming design <br/> • Cloud & On-primises <br/> • Snowflake & Databricks <br/> |
+| • Python, Rust ,Java • <br/> • Spark, Scikit-Learn ,Pytorch <br/> • Langchain , Pandas <br/> • Azure, GCP <br/> • Docker, FastAPI, Airflow, MLFlow • Hive, Cassandra, Redis <br/> | • MLOps <br/> • Generative AI & LLM <br/> • Distributed systems <br/> • Batch & Streaming <br/> • REST API, gRPC & Streaming design <br/> • Cloud & On-primises <br/> • Snowflake & Databricks <br/> |
 
 .
 
