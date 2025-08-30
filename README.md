@@ -5,7 +5,7 @@
 
 ### About Me 🤖  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikashksingh/)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@imvikashsingh)
 
-- 🌱 I’m currently learning **AI Agent with Rust**
+- 🌱 I’m currently learning **ChromaDB with Advance RAG**
   
 - 💛 Secretly in love with software engineering. <br/>
   
@@ -13,7 +13,7 @@
 
 - ⚡ Check out my Medium **I blog occasionally** but sharing my knowledge through creating content about designing and productionizing ML systems
   
-- 👱🏻 Because I am not 100% a robot,so I am also invest some time self-development. Cooking, gor for cycling, swimming for long hour are always my favourite. <br/>
+- 👱🏻 Because I am not 100% a robot,so I am also invest some time self-development. Cooking, go for cycling, swimming for long hour are always my favourite. <br/>
 
 ### About my primary skills
 
@@ -39,7 +39,7 @@
 
 | ⚫️ My **top** Technologies ⚫️ | ⚫️ My **top** interests ⚫️ |
 |---------------|--------------|
-| • Python, Rust ,Java • <br/> • Spark, Scikit-Learn ,Pytorch <br/> • Langchain , Pandas <br/> • Azure, GCP <br/> • Docker, FastAPI, Airflow, MLFlow • Hive, Cassandra, Redis <br/> | • MLOps <br/> • Generative AI & LLM <br/> • Distributed systems <br/> • Batch & Streaming <br/> • REST API, gRPC & Streaming design <br/> • Cloud & On-primises <br/> • Snowflake & Databricks <br/> |
+| • Python, Rust ,Java • <br/> • Spark, Scikit-Learn ,Pytorch <br/> • Langchain , Pandas <br/> • Azure, GCP ,VertexAI <br/> • Docker, FastAPI, Airflow, MLFlow • Hive, Cassandra, Redis <br/> | • MLOps <br/> • Generative AI & LLM ,RAG <br/> • Distributed systems <br/> • Batch & Streaming <br/> • REST API, gRPC & Streaming design <br/> • Cloud & On-primises <br/> • Snowflake & Databricks <br/> |
 
 .
 
