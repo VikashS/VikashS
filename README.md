@@ -5,13 +5,13 @@
 
 ### About Me 🤖  [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikashksingh/)  [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@imvikashsingh)
 
-- 🌱 I’m currently leveraging **Training deep neural nets on large datasets**
+- 🌱 I’m currently leveraging **Training deep neural nets on large datasets**.
   
 - 💛 Secretly in love with software engineering. <br/>
   
--   ⚡ Fun fact **I don't miss any movie of Gru **
+-   ⚡ Fun fact **I don't miss any movie of Gru. **
 
-- ⚡ Check out my Medium **I blog occasionally** but sharing my knowledge through creating content about designing and productionizing ML systems
+- ⚡ Check out my Medium **I blog occasionally** but sharing my knowledge through creating content about designing and productionizing ML systems.
   
 - 👱🏻 Because I am not 100% a robot,so I am also invest some time self-development. Cooking, go for cycling, swimming for long hour are always my favourite. <br/>
 
@@ -22,14 +22,14 @@
 <img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align="left" alt="OpenCV" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" />
+<img align="left" alt="Spark" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-plain-wordmark.svg" />
 
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" />
+<img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
 <img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 
 <img align="left" alt="Azure" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg"/>
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Kubeflow" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/kubeflow/kubeflow-original.svg" />
 
 <img align="left" alt="FastAPI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
 
