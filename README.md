@@ -22,7 +22,7 @@
 <img align="left" alt="Pytorch" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pytorch/pytorch-original.svg" />
 <img align="left" alt="Pandas" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" />
 <img align="left" alt="Numpy" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" />
-<img align="left" alt="Spark" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-plain-wordmark.svg" />
+<img align="left" alt="Spark" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/apachespark/apachespark-original.svg" />
 
 <img align="left" alt="GCP" width="30px" style="padding-right:10px;" src="https://github.com/devicons/devicon/blob/master/icons/googlecloud/googlecloud-original.svg" />
 <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
