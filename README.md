@@ -39,7 +39,7 @@
 
 | ⚫️ My **top** Technologies ⚫️ | ⚫️ My **top** interests ⚫️ |
 |---------------|--------------|
-| • Python, Rust ,Java • <br/> • Spark, Scikit-Learn ,Pytorch <br/> • Generative AI & LLM ,RAG , Langchain <br/> • Distributed Model Training(Kubeflow,Ray) <br/> • Docker, FastAPI, Airflow, MLFlow <br/> • GCP -VertexAI & Azure ML <br/> | • MLOps <br/> • Qubit, Pennylane <br/> • Distributed Model Training(Kubeflow,Ray) <br/> • Batch & Streaming <br/> • REST API, gRPC <br/> • Data Quality and Governance <br/> • Snowflake & Databricks <br/> |
+| • Python, Rust ,Java  <br/> • PySpark, Scikit-Learn ,Pytorch <br/> • GenAI & LLM ,RAG, Langchain <br/> • Distributed Model Training(Kubeflow,Ray) <br/> • Docker, FastAPI, Airflow, MLFlow <br/> • GCP-VertexAI & Azure ML | MLOps <br/> | • Snowflake & Databricks <br/> • Batch & Streaming <br/> • Distributed Model Training(Kubeflow,Ray) <br/>  • Qubit, Pennylane<br/> • REST API, gRPC <br/> • Data Quality and Governance <br/>  |
 
 .
 
